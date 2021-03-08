@@ -1,2 +1,2 @@
-# zeppelin_GCS
+# zeppelin
 Ground Control Station for zeppelins
